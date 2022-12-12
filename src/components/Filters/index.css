@@ -1,0 +1,42 @@
+.employment-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding-bottom: 15px;
+  border-bottom: 1px solid #ffffff;
+}
+.salary-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding-bottom: 15px;
+  border-bottom: 1px solid #ffffff;
+}
+.checkbox-container {
+  display: flex;
+  flex-direction: row;
+  margin-top: 10px;
+}
+.heading {
+  color: #ffffff;
+}
+.checkbox {
+  height: 15px;
+  width: 15px;
+}
+.checkbox-label {
+  font-family: 'Roboto';
+  font-size: 16px;
+  margin-left: 10px;
+  color: #ffffff;
+}
+.ul-items {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding-left: 0;
+  margin-left: 0;
+}
